@@ -108,7 +108,7 @@ header {
   color: white;
 }
 
-/* <========= RESPONSIVIDAE =========> */
+/* <========= RESPONSIVIDADE =========> */
 @media screen and (max-width: 320px) {
   #main-content h1 {
     font-size: 3rem;
